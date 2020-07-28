@@ -1,4 +1,4 @@
-add const wallpaper = require('wallpaper');
+const wallpaper = require('wallpaper');
 
 (async () => {
     await wallpaper.set('golf-wallpaper.jpg');
