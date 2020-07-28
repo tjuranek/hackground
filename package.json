@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tjuranek/hackground/issues"
   },
-  "homepage": "https://github.com/tjuranek/hackground#readme"
+  "homepage": "https://github.com/tjuranek/hackground#readme",
+  "dependencies": {
+    "wallpaper": "^4.4.1"
+  }
 }
