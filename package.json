@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/tjuranek/hackground#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "suncalc": "^1.8.0",
     "wallpaper": "^4.4.1"
   }
